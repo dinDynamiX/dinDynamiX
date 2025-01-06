@@ -106,7 +106,7 @@ Comprehensive API for healthcare data management systems.
 I believe that to excel in the technology industry requires an unwavering commitment to continuous learning and adaptation.
 
 ### 📖 Current Focus
-- Cloud-Native Development**: Deepening expertise in modern architectures such as Docker, Kubernetes, and Terraform, to facilitate efficient and scalable microservice deployments in cloud environments.
+- **Cloud-Native Development**: Deepening expertise in modern architectures such as Docker, Kubernetes, and Terraform, to facilitate efficient and scalable microservice deployments in cloud environments.
 - **DevOps Practices**: Delve deeper into the implementation of an optimized CI/CD pipeline, to enhance team collaboration, operational efficiency, and superior application quality.
 - **Advanced API Development**: Develop skills in building high-performance RESTful APIs using Node.js and Express.js to support robust and reliable applications.
 
