@@ -33,7 +33,7 @@ Technology’s power to transform lives drives my passion every day. I’m inspi
 
 ### 🌐 DevOps & Cloud Engineering
 - **Cloud Platforms**: Hands-on experience with **Google Cloud Platform (GCP)** and **AWS**, ensuring performance and efficiency.
-- **Automation**: Skilled in **CI/CD** and **Infrastructure as Code (IaC)** pipelines using **Terraform** and **GitHub Actions**.
+- **Automation**: Skilled in **CI/CD pipelines** and **Infrastructure as Code (IaC)** using **Terraform** and **GitHub Actions**.
 - **Containerization**: Proficient in **Docker** and **Kubernetes** for agile and efficient development.
 - **Security & Observability**: Experienced in **DevSecOps**, with monitoring tools like **Google Cloud Monitoring** and **AWS CloudWatch**.
 
