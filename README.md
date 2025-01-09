@@ -3,8 +3,8 @@
 ---
 
 <h1 align="Center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8EB573&random=false&width=500&lines=Hi+There!+I'm+Nur+Saifuddin;" /></h1> 
-<br/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8EB573&random=false&width=500&lines=Hi+There!+I'm+Nur+Saifuddin;" />
+</h1> 
 
 ---
 
