@@ -2,8 +2,14 @@
 
 ---
 
+<h1 align="Center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8EB573&random=false&width=500&lines=Hi+There!+I'm+Nur+Saifuddin;" /></h1> 
+<br/>
+
+---
+
 ## ✨ About Me
-Hi, I'm **Nur Saifuddin**, a passionate **DevOps and Back-End Developer** with a knack for solving real-world challenges through innovative technology. With a strong academic foundation in Informatics Engineering and hands-on experience in cutting-edge projects, I thrive on creating impactful applications that deliver value and make a difference. My journey is defined by continuous learning, collaboration, and a commitment to excellence.
+a passionate **DevOps and Back-End Developer** with a knack for solving real-world challenges through innovative technology. With a strong academic foundation in Informatics Engineering and hands-on experience in cutting-edge projects, I thrive on creating impactful applications that deliver value and make a difference. My journey is defined by continuous learning, collaboration, and a commitment to excellence.
 
 ---
 
