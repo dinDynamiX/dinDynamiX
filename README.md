@@ -9,7 +9,7 @@
 ---
 
 ## ✨ About Me
-a passionate **DevOps and Back-End Developer** with a knack for solving real-world challenges through innovative technology. With a strong academic foundation in Informatics Engineering and hands-on experience in cutting-edge projects, I thrive on creating impactful applications that deliver value and make a difference. My journey is defined by continuous learning, collaboration, and a commitment to excellence.
+a passionate **DevOps Engineer and Back-End Developer** with a knack for solving real-world challenges through innovative technology. With a strong academic foundation in Informatics Engineering and hands-on experience in cutting-edge projects, I thrive on creating impactful applications that deliver value and make a difference. My journey is defined by continuous learning, collaboration, and a commitment to excellence.
 
 ---
 
