@@ -1,4 +1,4 @@
-# ✨ Welcome to My Portofolio
+# ✨ Welcome to My Profile
 
 ---
 
